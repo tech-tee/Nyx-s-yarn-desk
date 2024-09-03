@@ -1,0 +1,15 @@
+h1
+    {
+    text-align: center;
+}
+body{
+    /*
+  background-color: burlywood;
+  */
+}    
+div{
+    width: 85%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+}
